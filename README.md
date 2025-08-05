@@ -8,8 +8,6 @@
 ## Intern Details
 
 - Name: Muhammad Shahryar Ameer  
-- Program: BS Electrical Engineering  
-- Institute: NUST EME  
 - Internship Duration: 1 Month  
 - Completed On: July 2025  
 

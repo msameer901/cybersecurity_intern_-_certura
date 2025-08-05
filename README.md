@@ -1,7 +1,7 @@
 # Certura Cybersecurity Internship Tasks
 
-This repository contains the completed tasks for the Certura Cybersecurity Internship Program. 
-Note: All tasks were performed in a safe, controlled environment for learning and educational purposes.
+- This repository contains the completed tasks for the Certura Cybersecurity Internship Program. 
+- Note: All tasks were performed in a safe, controlled environment for learning and educational purposes.
 
 ---
 
